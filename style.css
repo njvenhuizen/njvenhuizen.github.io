@@ -1,0 +1,156 @@
+/*
+  Author  : Christopher Robinson
+  Email   : christopher@edg3.co.uk
+  Website : http://www.edg3.co.uk/
+*/
+* {
+  border:0;
+  margin:0;
+  padding:0;
+}
+
+/* body */
+body {
+  background:#fff;
+  color:#666;
+  font:0.78em/100% 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+  line-height:1.4em;
+}
+
+/* general */
+a {
+  color:#7aa300;
+  text-decoration:none;
+}
+a:hover {
+  color:#555;
+  text-decoration:none;
+}
+
+/* header */
+#header {
+  background:#323232 url('image/background_header.jpg') center repeat-y;
+  width:100%;
+}
+#header:after {
+  clear:both;
+  content:'.';
+  display:block;
+  height:0;
+  visibility:hidden;
+}
+#header_inside {
+  border-left:1px solid #bbb;
+  border-right:1px solid #bbb;
+  margin:0 auto;
+  width:800px;
+}
+#header_inside h1 {
+  color:#fff;
+  float:left;
+  font:3.2em 'Trebuchet MS', Verdana, sans-serif;
+  height:100px;
+  line-height:100px;
+  margin:0 0 0 20px;
+  width:380px;
+}
+#header_inside h1 span {
+  color:#7aa300;
+}
+#header_inside ul {
+  float:right;
+  height:100px;
+  list-style:none;
+  width:400px;
+}
+#header_inside ul li {
+  border-right:1px solid #555;
+  float:right;
+  height:100px;
+  list-style:none;
+  width:75px;
+}
+#header_inside ul li a {
+  color:#fff;
+  display:block;
+  height:50px;
+  line-height:50px;
+  padding:50px 0 0;
+  text-align:center;
+  width:75px;
+}
+#header_inside ul li a:hover {
+  background:#fff;
+  color:#111;
+}
+#header_inside ul li a.active {
+  background:#fff;
+  color:#111;
+}
+
+/* content */
+#content {
+  background:#fff url('image/background_content.jpg') center repeat-y;
+  width:100%;
+}
+#content:after {
+  clear:both;
+  content:'.';
+  display:block;
+  height:0;
+  visibility:hidden;
+}
+#content_inside {
+  border-left:1px solid #bbb;
+  border-right:1px solid #bbb;
+  margin:0 auto;
+  width:800px;
+}
+#content_inside_main {
+  background:#fff;
+  letter-spacing:-1px;
+  line-height:175%;
+  margin:0 auto;
+  padding:0px 200px 50px 0px;
+  width:380px;
+}
+#content_inside_main h1 {
+  border-bottom:1px solid #ccc;
+  font-size:125%;
+  padding:30px 0 5px;
+}
+#content_inside_main h2 {
+  color:#ccc;
+  font-size:115%;
+  text-align:right;
+}
+#content_inside_main p {
+  padding:0 0 10px;
+  text-align:justify;
+}
+/* footer */
+#footer {
+  background:#323232 url('image/background_footer.jpg') center repeat-y;
+  height:50px;
+  width:100%;
+}
+#footer:after {
+  clear:both;
+  content:'.';
+  display:block;
+  height:0;
+  visibility:hidden;
+}
+#footer_inside {
+  border-left:1px solid #bbb;
+  border-right:1px solid #bbb;
+  height:100px;
+  margin:0 auto;
+  width:800px;
+}
+#footer_inside p {
+  color:#fff;
+  line-height:80px;
+  text-align:right;
+  font-size:50%;
+}
