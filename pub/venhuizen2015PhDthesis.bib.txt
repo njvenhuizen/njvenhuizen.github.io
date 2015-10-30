@@ -1,0 +1,7 @@
+@phdthesis{venhuizen2015PhDthesis,
+	Author = {Noortje Joost Venhuizen},
+	School = {University of Groningen},
+	Title = {Projection in Discourse: A data-driven formal semantic analysis},
+	Year = {2015}
+}
+
