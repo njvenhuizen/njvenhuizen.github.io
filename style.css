@@ -52,7 +52,7 @@ a:hover {
   height:100px;
   line-height:100px;
   margin:0 0 0 20px;
-  width:380px;
+  width:400px;
 }
 #header_inside h1 span {
   color:#7aa300;
@@ -61,7 +61,7 @@ a:hover {
   float:right;
   height:100px;
   list-style:none;
-  width:400px;
+  width:300px;
 }
 #header_inside ul li {
   border-right:1px solid #555;
