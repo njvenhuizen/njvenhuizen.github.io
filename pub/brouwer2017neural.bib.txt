@@ -1,0 +1,12 @@
+@incollection{brouwer2017neural,
+	Author = {Harm Brouwer and Matthew W. Crocker and Noortje J. Venhuizen},
+	Booktitle = {From Semantics to Dialectometry: Festschrift in honor of John Nerbonne},
+	Editor = {Martijn Wieling and Martin Kroon and Gertjan van Noord and Gosse Bouma},
+	Pages = {75--83},
+	Publisher = {College Publications},
+	Series = {Tributes},
+	Title = {Neural Semantics},
+	Url = {http://www.let.rug.nl/festschriftnerbonne/08.%20Brouwer%20et%20al.pdf},
+	Volume = {32},
+	Year = {2017}
+}
