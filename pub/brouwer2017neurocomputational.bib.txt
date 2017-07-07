@@ -1,0 +1,12 @@
+@article {brouwer2017neurocomputational,
+	Author = {Brouwer, Harm and Crocker, Matthew W. and Venhuizen, Noortje J. and Hoeks, John C. J.},
+	Title = {A Neurocomputational Model of the N400 and the P600 in Language Processing},
+	Journal = {Cognitive Science},
+	Volume = {41},
+	Issn = {1551-6709},
+	Url = {http://dx.doi.org/10.1111/cogs.12461},
+	Doi = {10.1111/cogs.12461},
+	Pages = {1318--1352},
+	Keywords = {Language comprehension, Event-related potentials, N400, P600, Retrieval–Integration account, Computational modeling, Neural networks},
+	Year = {2017}
+}
