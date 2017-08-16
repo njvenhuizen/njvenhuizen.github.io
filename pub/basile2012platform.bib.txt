@@ -6,6 +6,6 @@
 	Pages = {92--96},
 	Publisher = {Association for Computational Linguistics},
 	Title = {A platform for collaborative semantic annotation},
-	Url = {http://aclweb.org/anthology-new/E/E12/E12-2019.pdf},  
+	Url = {http://aclanthology.coli.uni-saarland.de/pdf/E/E12/E12-2019.pdf},  
 	Year = {2012}
 }

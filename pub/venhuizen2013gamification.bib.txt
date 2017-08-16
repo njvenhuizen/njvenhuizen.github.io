@@ -7,6 +7,6 @@
 	Pages = {397--403},
 	Publisher = {Association for Computational Linguistics},
 	Title = {Gamification for Word Sense Labeling},
-	Url = {http://aclweb.org/anthology-new/W/W13/W13-0215.pdf},
+	Url = {http://aclanthology.coli.uni-saarland.de/pdf/W/W13/W13-0215.pdf},
 	Year = {2013}
 }

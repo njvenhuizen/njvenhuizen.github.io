@@ -7,6 +7,6 @@
 	Pages = {252--263},
 	Publisher = {Association for Computational Linguistics},
 	Title = {Parsimonious Semantic Representations with Projection Pointers},
-	Url = {http://aclweb.org/anthology-new/W/W13/W13-0122.pdf},
+	Url = {http://aclanthology.coli.uni-saarland.de/pdf/W/W13/W13-0122.pdf},
 	Year = {2013}
 }
