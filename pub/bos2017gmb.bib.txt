@@ -5,7 +5,7 @@
         Doi= {10.1007/978-94-024-0881-2_18},
         Editor= {Ide, Nancy and Pustejovsky, James},
         Isbn= {978-94-024-0881-2},
-        Title= {The Groningen Meaning Bank},
+        Title= {{The Groningen Meaning Bank}},
         Pages= {463--496},
         Publisher= {Springer Netherlands},
         Url= {http://dx.doi.org/10.1007/978-94-024-0881-2_18},
