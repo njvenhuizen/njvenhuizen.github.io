@@ -1,0 +1,12 @@
+@article{venhuizen2018discourse,
+        Author = {Venhuizen, Noortje J. and Bos, Johan and Hendriks, Petra and Brouwer, Harm},
+        Title = {Discourse Semantics with Information Structure},
+        Journal = {Journal of Semantics},
+        Volume = {},
+        Number = {},
+        Pages = {},
+        Year = {2018},
+        Doi = {10.1093/jos/ffx017},
+        URL = { + http://dx.doi.org/10.1093/jos/ffx017},
+        eprint = {/oup/backfile/content_public/journal/jos/pap/10.1093_jos_ffx017/3/ffx017.pdf}
+}
