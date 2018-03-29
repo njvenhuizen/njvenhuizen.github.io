@@ -1,0 +1,13 @@
+@article{venhuizen2018expectation,
+author = {Noortje J. Venhuizen and Matthew W. Crocker and Harm Brouwer},
+title = {Expectation-based Comprehension: Modeling the Interaction of World Knowledge and Linguistic Experience},
+journal = {Discourse Processes},
+volume = {0},
+number = {0},
+pages = {1-27},
+year  = {2018},
+publisher = {Routledge},
+doi = {10.1080/0163853X.2018.1448677},
+URL = {https://doi.org/10.1080/0163853X.2018.1448677},
+eprint = {https://doi.org/10.1080/0163853X.2018.1448677}
+}
