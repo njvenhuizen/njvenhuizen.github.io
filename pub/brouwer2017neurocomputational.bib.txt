@@ -1,4 +1,4 @@
-@article {brouwer2017neurocomputational,
+@article{brouwer2017neurocomputational,
 	Author = {Brouwer, Harm and Crocker, Matthew W. and Venhuizen, Noortje J. and Hoeks, John C. J.},
 	Title = {A Neurocomputational Model of the N400 and the P600 in Language Processing},
 	Journal = {Cognitive Science},
