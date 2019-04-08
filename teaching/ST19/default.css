@@ -31,9 +31,12 @@ input {
 	color: #555;
 	font: normal 1.1em "Lucida Sans Unicode",sans-serif;
 }
-p,cite,code,ul {
+p,cite,code {
 	font-size: 1.2em;
 	padding-bottom: 1.2em;
+}
+ul {
+	font-size: 1.2em;
 }
 h1 {
 	font-size: 1.4em;
