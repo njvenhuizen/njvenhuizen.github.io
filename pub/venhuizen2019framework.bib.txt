@@ -1,0 +1,13 @@
+@InProceedings{venhuizen2019framework,
+        Author = {Venhuizen, Noortje J. and Hendriks, Petra and Crocker, Matthew W. and Brouwer, Harm},
+        Editor = {Iemhoff, Rosalie and Moortgat, Michael and de Queiroz, Ruy},
+        Title = {A Framework for Distributional Formal Semantics},
+        Booktitle = {Logic, Language, Information, and Computation},
+        Year = {2019},
+        Publisher = {Springer},
+        Address = {Berlin, Heidelberg},
+        Pages = {633--646},
+        Isbn = {978-3-662-59533-6},
+        Doi = {10.1007/978-3-662-59533-6_39}
+}
+
