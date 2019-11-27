@@ -1,0 +1,12 @@
+@article{venhuizen2019entropy,
+author = {Noortje J. Venhuizen and Matthew W. Crocker and Harm Brouwer},
+title = {Semantic Entropy in Language Comprehension},
+journal = {Entropy},
+volume = {21},
+number = {12},
+pages = {1159}, % Article Number
+year  = {2019},
+publisher = {MDPI},
+doi = {10.3390/e21121159},
+URL = {https://www.mdpi.com/1099-4300/21/12/1159}
+}
