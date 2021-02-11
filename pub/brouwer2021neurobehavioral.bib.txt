@@ -1,0 +1,10 @@
+@article{brouwer2021neurobehavioral,
+        Author = {Brouwer, Harm and Delogu, Francesca and Venhuizen, Noortje J. and Crocker, Matthew W.},   
+	Title = {Neurobehavioral Correlates of Surprisal in Language Comprehension: A Neurocomputational Model},      
+	Journal = {Frontiers in Psychology},      
+	Volume = {12},      
+        Pages = {110},     
+	Year = {2021},      	
+        Doi = {10.3389/fpsyg.2021.615538},      
+	ISSN = {1664-1078}, 
+}
