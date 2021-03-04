@@ -1,0 +1,8 @@
+@article{venhuizen2021distributional,
+        Author = {Venhuizen, Noortje J. and Hendriks, Petra and Crocker, Matthew W. and Brouwer, Harm},
+        Title = {Distributional Formal Semantics},
+        Journal = {Information and Computation},
+        Note = {In press. arXiv preprint arXiv:2103.01713}
+        Year = {2021},
+}
+
