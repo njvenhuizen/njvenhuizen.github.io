@@ -1,8 +1,31 @@
 @article{venhuizen2021distributional,
-        Author = {Venhuizen, Noortje J. and Hendriks, Petra and Crocker, Matthew W. and Brouwer, Harm},
-        Title = {Distributional Formal Semantics},
-        Journal = {Information and Computation},
-        Note = {In press. arXiv preprint arXiv:2103.01713}
-        Year = {2021},
+    title = {Distributional formal semantics},
+    journal = {Information and Computation},
+    pages = {104763},
+    year = {2021},
+    issn = {0890-5401},
+    doi = {https://doi.org/10.1016/j.ic.2021.104763},
+    url = {https://www.sciencedirect.com/science/article/pii/S089054012100078X},
+    author = {Noortje J. Venhuizen and Petra Hendriks and Matthew W. Crocker and
+    Harm Brouwer},
+    keywords = {Formal semantics, Distributional semantics, Compositionality,
+    Probability, Inference, Incrementality},
+    abstract = {Natural language semantics has recently sought to combine the
+    complementary strengths of formal and distributional approaches to meaning.
+    However, given the fundamentally different 'representational currency'
+    underlying these approaches—models of the world versus linguistic
+    co-occurrence—their unification has proven extremely difficult. Here, we
+    define Distributional Formal Semantics, which integrates distributionality
+    into a formal semantic system on the level of formal models. This approach
+    offers probabilistic, distributed meaning representations that are
+    inherently compositional, and that naturally capture fundamental semantic
+    notions such as quantification and entailment. Furthermore, we show how the
+    probabilistic nature of these representations allows for probabilistic
+    inference, and how the information-theoretic notion of "information"
+    (measured in Entropy and Surprisal) naturally follows from it. Finally, we
+    illustrate how meaning representations can be derived incrementally from
+    linguistic input using a recurrent neural network model, and how the
+    resultant incremental semantic construction procedure intuitively captures
+    key semantic phenomena, including negation, presupposition, and
+    anaphoricity.}
 }
-

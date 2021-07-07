@@ -1,0 +1,8 @@
+@inproceedings{sikos2021speak,
+    Author = {Sikos, Les and Venhuizen, Noortje J. and Drenhaus, Heiner and Crocker, Matthew W.},
+    Title = {Speak before you listen: Pragmatic reasoning in multi-trial language games},
+    Booktitle = {{Proceedings of the 43rd Annual Meeting of the Cognitive Science Society}},
+    Volume = {43},
+    Note = {to appear},
+    Year = {2021}
+}
