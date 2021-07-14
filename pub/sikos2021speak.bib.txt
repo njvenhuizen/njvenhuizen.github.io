@@ -2,7 +2,8 @@
     Author = {Sikos, Les and Venhuizen, Noortje J. and Drenhaus, Heiner and Crocker, Matthew W.},
     Title = {Speak before you listen: Pragmatic reasoning in multi-trial language games},
     Booktitle = {{Proceedings of the 43rd Annual Meeting of the Cognitive Science Society}},
+    Editor = {Tecumseh Fitch and Claus Lamm and Helmut Leder and Kristin Te{\ss}mar-Raible},
     Volume = {43},
-    Note = {to appear},
+    Pages = {1465--1471},
     Year = {2021}
 }
