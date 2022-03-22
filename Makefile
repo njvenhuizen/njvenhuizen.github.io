@@ -8,8 +8,8 @@ all:
 	tidy -i teaching/index.html > teaching/index.tmp
 	mv teaching/index.tmp teaching/index.html
 
-	tidy -i teaching/ST21/index.html > teaching/ST21/index.tmp
-	mv teaching/ST21/index.tmp teaching/ST21/index.html
+	tidy -i teaching/ST22/index.html > teaching/ST22/index.tmp
+	mv teaching/ST22/index.tmp teaching/ST22/index.html
 
 
 
