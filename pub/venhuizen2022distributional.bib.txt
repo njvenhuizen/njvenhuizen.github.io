@@ -1,0 +1,12 @@
+@article{venhuizen2022distributional,
+    author = {Noortje J. Venhuizen and Petra Hendriks and Matthew W. Crocker and Harm Brouwer},
+    title = {Distributional formal semantics},
+    journal = {Information and Computation},
+    volume = {287},
+    pages = {104763},
+    year = {2022},
+    note = {Special Issue: Selected Papers from WoLLIC 2019, the 26th Workshop on Logic, Language, Information and Computation},
+    issn = {0890-5401},
+    doi = {https://doi.org/10.1016/j.ic.2021.104763},
+    url = {https://www.sciencedirect.com/science/article/pii/S089054012100078X}
+}
