@@ -69,9 +69,13 @@
           "label">Github</span></a>
         </li>
         <li>
-          <a href="mailto:njvenhuizen@gmail.com" class=
-          "icon solid fa-envelope"><span class=
-          "label">Email</span></a>
+          <script type="text/javascript">
+            emailN = 'njvenhuizen'
+            emailE = 'gmail'
+            document.write('<a href=\"mailto:' + emailN + '@' + 
+                emailE + '.com\" class=\"icon solid fa-envelope\">'
+                + '<span class=\"label\">Email</span></a>')
+          </script>
         </li>
       </ul>
     </footer>
@@ -769,11 +773,27 @@
         <div class="container">
           <h3>Contact details</h3>
           <ul class="feature-icons stacked">
-            <li class="icon solid fa-envelope">Work: <code>noortjev
-            (at) coli (dot) uni-saarland (dot) de</code></li>
-            <li class="icon solid fa-envelope">Other:
-            <code>njvenhuizen (at) gmail (dot) com</code></li>
-            <!-- <li></li> -->
+            <li class="icon solid fa-envelope">Work: 
+              <script type="text/javascript">
+
+
+                emailN = 'noortjev'
+                emailE = 'coli.uni-saarland'
+                document.write('<a href=\"mailto:' + emailN
+                    + '@' + emailE + '.de\"><code>' + emailN
+                    + ' (at) ' + emailE + ' (dot) de</code></a>')
+              </script>
+            </li>
+            <li class="icon solid fa-envelope">Other: 
+              <script type="text/javascript">
+
+                emailN = 'njvenhuizen'
+                emailE = 'gmail'
+                document.write('<a href=\"mailto:' + emailN
+                    + '@' + emailE + '.com\"><code>' + emailN
+                    + ' (at) ' + emailE + ' (dot) com</code></a>')
+              </script>
+            </li>
             <li class="icon solid fa-pen">Department of Language
             Science & Technology, Saarland University, Campus C7.1,
             Raum 1.19, 66123 Saarbrücken, Germany</li>
@@ -793,11 +813,6 @@
           </li>
           <li>Last update:: 
             <script type="text/javascript">
-
-
-
-
-
 
 
             document.write(document.lastModified)
