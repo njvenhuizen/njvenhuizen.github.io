@@ -1,0 +1,9 @@
+@inproceedings{li2023doesinformativity,
+    Author = {Li, Muqing and Venhuizen, Noortje J. and Jachmann, Torsten Kai and Drenhaus, Heiner and Crocker, Matthew W.},
+    Title = {Does informativity modulate linearization preferences in reference production?},
+    Booktitle = {{Proceedings of the 45th Annual Meeting of the Cognitive Science Society}},
+    Editor = {M. Goldwater and F. K. Anggoro and B. K. Hayes and D. C. Ong},
+    Volume = {45},
+    Pages = {3048--3054},
+    Year = {2023}
+}

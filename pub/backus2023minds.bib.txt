@@ -1,0 +1,15 @@
+@article{backus2023minds,
+   author = "Backus, Ad and Cohen, Michael and Cohn, Neil and Faber, Myrthe and Krahmer, Emiel and Laparle, Schuyler and Maier, Emar and van Miltenburg, Emiel and Roelofsen, Floris and Sciubba, Eleonora and Scholman, Merel and Shterionov, Dimitar and Sie, Maureen and Tomas, Frédéric and Vanmassenhove, Eva and Venhuizen, Noortje J. and de Vos, Connie",
+   title = "Minds: Big questions for linguistics in the age of AI", 
+   journal= "Linguistics in the Netherlands",
+   year = "2023",
+   volume = "40",
+   number = "1",
+   pages = "301-308",
+   doi = "https://doi.org/10.1075/avt.00094.bac",
+   url = "https://www.jbe-platform.com/content/journals/10.1075/avt.00094.bac",
+   publisher = "John Benjamins",
+   issn = "0929-7332",
+   type = "Journal Article",
+  }
+
