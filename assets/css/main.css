@@ -100,9 +100,10 @@ input, select, textarea {
 	body, input, select, textarea {
 		color: #888;
 		font-family: "Lato", sans-serif;
-		font-size: 16pt;
+		font-size: 14pt;
 		font-weight: 400;
 		line-height: 1.75em;
+		text-align: justify;
 	}
 
 	a {
@@ -1709,7 +1710,7 @@ input, select, textarea {
 	.container {
 		margin: 0 auto;
 		max-width: calc(100% - 4.5em);
-		width: 45em;
+		width: 47em;
 	}
 
 		.container.xsmall {
