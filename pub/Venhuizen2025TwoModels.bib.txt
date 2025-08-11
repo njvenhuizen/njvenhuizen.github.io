@@ -1,0 +1,12 @@
+@incollection{Venhuizen2025TwoModels,
+title = {Two models of meaning: Revisiting the principle of compositionality from the neurocognition of language},
+series = {Psychology of Learning and Motivation},
+editor = {Kara D. Federmeier and Melissa Troyer}
+publisher = {Academic Press},
+year = {2025},
+issn = {0079-7421},
+doi = {https://doi.org/10.1016/bs.plm.2025.07.007},
+url = {https://www.sciencedirect.com/science/article/pii/S0079742125000258},
+author = {Noortje J. Venhuizen and Harm Brouwer},
+keywords = {Language comprehension, Lexical semantics, Utterance meaning, Compositionality, Retrieval-integration theory}
+}
