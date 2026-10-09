@@ -2,8 +2,11 @@
   author = {Noortje J. Venhuizen and Harm Brouwer},
   title = {Referential Retrieval and Integration in Language Comprehension: An Electrophysiological Perspective},
   journal = {Psychological Review},
+  volume = 133,
+  issue = 5,
+  pages = {1183-1203}
   publisher = {American Psychological Association},
-  year = {2025},
+  year = {2026},
   issn = {0033-295X},
   doi = {https://doi.org/10.1037/rev0000530},
   url = {https://psycnet.apa.org/doiLanding?doi=10.1037%2Frev0000530}
